@@ -29,8 +29,7 @@ class countfile
 		sentence+=sentencelist.length;
 		System.out.println("the file as character :"+character);
 		System.out.println("the file as words :"+word);
-		System.out.println("the file as sentence :"+sentence);
-	}
+		System.out.println("the file as sentence :"+sentence);}
 	catch(Exception e){
 		System.out.println("File not found");
 	}

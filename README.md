@@ -1,4 +1,3 @@
 # reshmitha
-hello
-iam a good girl
-im eat apple
+here we can see the quiz on using html,css,javascript
+
